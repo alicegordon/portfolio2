@@ -1,0 +1,52 @@
+/* Basic CSS resets -- leveling slight inconsistencies in browsers */
+html, body {
+	margin:0px;
+	padding:0px;
+	height:100%;
+}
+
+html {
+		/* Standard text-settings below */
+	font-size: 1em;
+    line-height: 1.4em;
+}
+
+
+
+
+body {
+	
+	
+}
+
+
+#container {
+	
+}
+
+span.oreo{ 
+color: #ff0000;
+font-size: 50px; 
+position: absolute;
+bottom: 30px;
+right:0px;
+opacity:0.65;
+rotate:45deg;
+text-shadow:15px 20px 10px black;
+text-shadow:20px 40px 60px #fcacca
+}
+
+span.period{
+    color: #ff0000;
+    font-size:600px;
+    position:absolute;
+    bottom:500px;
+    right:0px;
+    opacity:0.4;
+    text-shadow:30px 50px black;
+
+}
+
+
+
+

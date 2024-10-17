@@ -1,0 +1,57 @@
+/* Basic CSS resets -- leveling slight inconsistencies in browsers */
+html, body {
+	margin:20px;
+	padding:20px;
+	height:100%;
+}
+
+html {
+		/* Standard text-settings below */
+	font-size: 1em;
+    line-height: 1.4em;
+}
+
+
+
+
+body {
+	font-family: Didot, serif;
+    background:#f5e0b0;  
+        color:#333028; 
+        margin: 50px
+	
+}
+
+
+#container {
+    border: 2px dotted #333028
+        background: #fff0c7;
+    width: 90% 
+        max-width: 750px;
+    margin: auto;
+    
+	
+}
+ul {
+    list-style:none; 
+    padding-left: 30px;
+}
+a {
+    color: #52431d;
+    
+}
+a:hover {
+    color: #9e8d62;
+}
+
+figure {
+    margin: 30px;
+}
+
+figure img {
+    width: 50%;
+}
+
+figcaption, footer {
+    font-size: 0.75em;
+}
